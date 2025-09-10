@@ -13,25 +13,32 @@ public class Main {
               System.out.println("4.Exit");
               choice = sc.nextInt();
               sc.nextLine();
-
+              String first;
+              String second;
+              String third;
+              String fourth;
+              String fifth;
+              String sixth;
+              String seventh;
 
               if (choice == 2) {
                   System.out.println("What is your first period class (Name of Class)?");
-                  String first = sc.nextLine();
+                  first = sc.nextLine();
                   System.out.println("What is your second period class (Name of Class)?");
-                  String second = sc.nextLine();
+                  second = sc.nextLine();
                   System.out.println("What is your third period class (Name of Class)?");
-                  String third = sc.nextLine();
+                   third = sc.nextLine();
                   System.out.println("What is your fourth period class (Name of Class)?");
-                  String fourth = sc.nextLine();
+                   fourth = sc.nextLine();
                   System.out.println("What is your fifth period class (Name of Class)?");
-                  String fifth = sc.nextLine();
+                   fifth = sc.nextLine();
                   System.out.println("What is your sixth period class (Name of Class)?");
-                  String sixth = sc.nextLine();
+                   sixth = sc.nextLine();
                   System.out.println("What is your seventh period class (Name of Class)?");
-                  String seventh = sc.nextLine();
+                   seventh = sc.nextLine();
               }
           }
+
 
 
 
