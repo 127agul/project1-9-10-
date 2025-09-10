@@ -4,15 +4,15 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
-        int choice = sc.nextInt();
-        sc.nextLine();
+          int choice = 0;
           while(choice != 4) {
               System.out.println("Choose one of the options below (number)");
               System.out.println("1. View");
               System.out.println("2. Edit");
               System.out.println("3. View Day");
               System.out.println("4.Exit");
-              int choice = sc.nextInt();
+              choice = sc.nextInt();
+              sc.nextLine();
 
 
               if (choice == 2) {
