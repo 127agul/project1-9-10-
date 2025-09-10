@@ -4,6 +4,20 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
+          System.out.println("What is your first period class (Name of Class)?");
+          String first = sc.nextLine();
+          System.out.println("What is your second period class (Name of Class)?");
+          String second = sc.nextLine();
+          System.out.println("What is your third period class (Name of Class)?");
+          String third = sc.nextLine();
+          System.out.println("What is your fourth period class (Name of Class)?");
+          String fourth = sc.nextLine();
+          System.out.println("What is your fifth period class (Name of Class)?");
+          String fifth = sc.nextLine();
+          System.out.println("What is your sixth period class (Name of Class)?");
+          String sixth = sc.nextLine();
+          System.out.println("What is your seventh period class (Name of Class)?");
+          String seventh = sc.nextLine();
 
 
         }
