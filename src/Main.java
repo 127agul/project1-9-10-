@@ -13,6 +13,7 @@ public class Main {
               System.out.println("4.Exit");
               int choice = sc.nextInt();
 
+
               if (choice == 2) {
                   System.out.println("What is your first period class (Name of Class)?");
                   String first = sc.nextLine();
