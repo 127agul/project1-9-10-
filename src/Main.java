@@ -24,6 +24,7 @@ public class Main {
               ArrayList<String> aDay = new ArrayList<>(first,second,third,"Lunch",fifth,sixth);
               ArrayList<String> bDay = new ArrayList<>(fourth,first,second,"Lunch",seventh,fifth);
 
+
               if (choice == 2) {
                   System.out.println("What is your first period class (Name of Class)?");
                   first = sc.nextLine();
