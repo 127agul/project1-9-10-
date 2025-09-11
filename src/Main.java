@@ -5,8 +5,6 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
           Scanner sc = new Scanner(System.in);
-          ArrayList<String> morning = new ArrayList<>();
-          ArrayList<String> afternoon = new ArrayList<>();
           int choice = 0;
           while(choice != 4) {
               System.out.println("Choose one of the options below (number)");
@@ -23,7 +21,8 @@ public class Main {
               String fifth;
               String sixth;
               String seventh;
-
+              ArrayList<String> aDay = new ArrayList<>(first,second,third,"Lunch",fifth,sixth);
+              ArrayList<String> bDay = new ArrayList<>(fourth,first,second,"Lunch",seventh,fifth);
 
               if (choice == 2) {
                   System.out.println("What is your first period class (Name of Class)?");
