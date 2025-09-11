@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d242eacd-1c11-489e-aecd-c1d5991ba637" name="Changes" comment="fix&#10;fix 2">
+    <list default="true" id="d242eacd-1c11-489e-aecd-c1d5991ba637" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -17,10 +17,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Gianna-Ferrara&quot;
+  }
+}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/127agul/project1-9-10-&quot;,
-    &quot;accountId&quot;: &quot;fe62e7bd-32d6-4cd4-97ff-761713670711&quot;
+    &quot;accountId&quot;: &quot;9bc7d722-e416-432d-880a-a3f897c34476&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -78,6 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757504499629</updated>
       <workItem from="1757504500692" duration="400000" />
+      <workItem from="1757594613392" duration="586000" />
     </task>
     <task id="LOCAL-00001" summary="added scanner">
       <option name="closed" value="true" />
@@ -95,31 +102,7 @@
       <option name="project" value="LOCAL" />
       <updated>1757506145260</updated>
     </task>
-    <task id="LOCAL-00003" summary="added scanner&#10;deleted org and created scanner obj&#10;added choices&#10;fix">
-      <option name="closed" value="true" />
-      <created>1757506747712</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1757506747712</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix">
-      <option name="closed" value="true" />
-      <created>1757506847867</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1757506847867</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fix&#10;fix 2">
-      <option name="closed" value="true" />
-      <created>1757506966409</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1757506966409</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,9 +124,6 @@
     <MESSAGE value="added scanner" />
     <MESSAGE value="added scanner&#10;deleted org and created scanner obj" />
     <MESSAGE value="added scanner&#10;deleted org and created scanner obj&#10;added choices" />
-    <MESSAGE value="added scanner&#10;deleted org and created scanner obj&#10;added choices&#10;fix" />
-    <MESSAGE value="fix" />
-    <MESSAGE value="fix&#10;fix 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix&#10;fix 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added scanner&#10;deleted org and created scanner obj&#10;added choices" />
   </component>
 </project>
