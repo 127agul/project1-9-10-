@@ -24,6 +24,7 @@ public class Main {
               String sixth;
               String seventh;
 
+
               if (choice == 2) {
                   System.out.println("What is your first period class (Name of Class)?");
                   first = sc.nextLine();
@@ -50,10 +51,8 @@ public class Main {
           }
 
           if(choice == 1) {
-              System.out.println("A-Day: " + morning.get(0) + morning.get(1) + morning.get(2));
-              System.out.println(afternoon.get(0) + afternoon.get(1));
-          }
 
+          }
 
 
 
